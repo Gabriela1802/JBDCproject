@@ -31,6 +31,8 @@ public class Principal {
         }
         try {
             int opcion;
+
+            // nuevo
             do {
                 opcion = mostrarMenuPrincipal();
                 procesarOpcionPrincipal(opcion);
