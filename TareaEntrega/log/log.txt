@@ -1,0 +1,192 @@
+[2024-12-14 19:35:01] Error al inicializar la conexion: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2024-12-14 19:35:05] Cannot invoke "Persistencia.GestorCSV.leerEventos(String)" because "Interfaz.Principal.gestorCSV" is null
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 1,1,11111111A,2024-11-01
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 1,1,11111111A,2024-11-01
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:35:37] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 1,1,11111111A,2024-11-01
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 1,1,11111111A,2024-11-01
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:36:45] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:39:50] ERROR inscripcion con codigo '1' no existe en BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR evento ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR invitado ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:40:57] ERROR inscripcion ya existe en la lista al bajar de BBDD
+[2024-12-14 19:41:35] 2 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 3 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 4 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 5 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 6 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 7 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 8 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 9 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 10 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 11 : ERROR codigo evento duplicado
+
+[2024-12-14 19:41:35] 2 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 3 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 4 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 5 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 6 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 7 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 8 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 9 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 10 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 11 : ERROR dni invitado duplicado
+
+[2024-12-14 19:41:35] 2 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 3 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 4 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 5 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 6 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 7 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 8 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 9 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 10 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:35] 11 : ERROR registro de inscripcion mal formado: ERROR codigo Inscripcion duplicado
+
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 1,1,11111111A,2024-11-01
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:41:36] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 1,1,11111111A,2024-11-01
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 1,1,11111111A,2024-11-01
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:48:18] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:53:26] ERROR inscripcion con codigo '1' no existe en BBDD
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 1,1,11111111A,2024-11-01
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 2,2,22222222B,2024-09-15
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 3,3,33333333C,2024-10-01
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 4,4,44444444D,2024-08-25
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 5,5,55555555E,2024-07-30
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 6,6,66666666F,2024-06-15
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 7,7,77777777G,2024-05-20
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 8,8,88888888H,2024-04-18
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 9,9,99999999I,2024-12-01
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
+[2024-12-14 19:55:33] ERROR formato de Inscripcion al subir en BBDD: 10,10,10101010J,2024-11-30
